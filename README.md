@@ -61,7 +61,7 @@ Sau khi đã có hàm, viết câu lệnh sql khai thác hàm đó.
 * Tìm cách không sử dụng CURSOR để giải quyết bài toán mà em đã dùng CURSOR mới giải quyết được ở trên. thử so sánh tốc độ giữa có dùng cursor và không dùng cursor (nếu cùng kết quả) thì thời gian xử lý cái nào nhanh hơn, cần ảnh chụp màn hình minh chứng.
 
 * Nếu vẫn tìm được cách dùng SQL để giải quyết vấn đề mà ko cần CURSOR: thử nghĩ bài toán khác, mà chỉ CURSOR mới giải quyết được, còn SQL rất khó giải quyết đc (theo logic suy nghĩ của em)
-* 
+
 # PHẦN I: KHỞI TẠO BẢNG
 ### 1. tạo database cơ sở dữ liệu
 
